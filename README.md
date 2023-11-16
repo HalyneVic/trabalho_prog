@@ -168,7 +168,6 @@ setlocale(LC_ALL, "portuguese");
           }
       } while (1);
 
-  printf("\nFeito por: Halyne Victória Domingues.\n");
-  printf("Turma: 4223\n");
+
       return 0;
   }
